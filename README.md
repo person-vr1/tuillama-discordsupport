@@ -24,11 +24,12 @@ None, heres the nodejs dependencies i installed in the project though:
 
 ## Installation
 1. Clone the repository:
-
+```
 git clone https://github.com/person-vr1/tuillama-discordsupport.git
-
 cd tuillama-discordsupport
-
+```
+2. Install the dependencies and start the project:
+```
 npm install
-
 npm start
+```
