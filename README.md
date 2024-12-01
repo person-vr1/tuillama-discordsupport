@@ -33,3 +33,11 @@ cd tuillama-discordsupport
 npm install
 npm start
 ```
+
+## Notes from me
+This project will not be as good as the other one, just adds a few more features, but if theres any bugs, report it in the issues tab.
+
+## Last Updated
+This README was last updated on [Date].
+
+### This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
