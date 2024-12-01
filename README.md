@@ -14,8 +14,9 @@ DISCORD_TOKEN=NzYwMjExMzk2MzY0MzEwMTg1.XYg-5A.fy5YJh9XUJbV6s2lw_0Veqkj5z4
 Of course, you can change the model to your liking, but the OLLAMA_ENDPOINT should never change.
 
 ## Prerequisites
-- Node.js 20.x or higher (i use v22.11.0)
+- [Node.js 20.x or higher](https://nodejs.org/en) (i use v22.11.0)
 - Windows, Linux, or if it works, macOS (i am not creating a vm just to test it out).
+- [Ollama](https://ollama.com/download)
 
 ## Dependencies
 None, heres the nodejs dependencies i installed in the project though:
